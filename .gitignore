@@ -1,0 +1,9 @@
+
+# Logs
+
+*.log
+
+
+# Emacs Files
+
+*~
